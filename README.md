@@ -1,6 +1,6 @@
 # Pet Wars
 
-Move to fluffy animals into a fight and sdd uge
+Move to fluffy animals into a fight and see who wins.
 
 ## How
 
@@ -38,4 +38,4 @@ The loser is: Molly (0)
 
 ## Tests
 
-No tests for this yet, as it was thought of as an experiementø
+No tests for this yet, as it was thought of as an experiement.
