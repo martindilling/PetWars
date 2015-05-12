@@ -1,10 +1,10 @@
 # Pet Wars
 
-Move to fluffy animals into a fight and see who wins.
+Move two fluffy animals into a fight and see who wins.
 
 ## How
 
-Just visit the root in a webserver.
+Just run the `index.php`.
 
 
 Example output:
